@@ -31,6 +31,12 @@ The world's first **verifiable AI oracle for prediction markets**. Combining Nau
 
 Next.js 16 • SUI Move • Walrus • GPT-5 • Nautilus TEE
 
+## Join the Waitlist
+
+Be among the first to access Walmarket when we launch on mainnet.
+
+**[Join Waitlist →](https://form.typeform.com/to/DaHuofg7)**
+
 ## Links
 
 [Live Demo](https://walmarket.fun) • [Main Repo](https://github.com/leopard627/walmarket) • [Documentation](https://github.com/leopard627/walmarket#readme)
